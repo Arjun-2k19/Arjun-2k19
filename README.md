@@ -161,33 +161,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Github Stats
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shashank-taliwal&show_icons=true&count_private=true&theme=algolia" height="300px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank-taliwal&langs_count=20&show_icons=true&locale=en&layout=compact&theme=algolia" alt="shashank-taliwal" height="300px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
 
-----
-
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Arjun-2k19"><img alt="Arjun Prajapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arjun prajapati&custom_title=Arjunprajapati%27s%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/Arjun-2k19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunprajapati&layout=compact&theme=algolia" alt="arjun prajapati" /></a> </p>
-
------
-
+ 
