@@ -179,7 +179,7 @@ Here are some ideas to get you started:
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/shashank-taliwal"><img alt="shashank-taliwal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shashank-taliwal&custom_title=shashank-taliwal%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Arjun-2k19"><img alt="Arjun Prajapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Arjun prajapati&custom_title=Arjunprajapati%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -187,7 +187,7 @@ Here are some ideas to get you started:
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/shashank-taliwal/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashank-taliwal&layout=compact&theme=algolia" alt="shashank-taliwal" /></a> </p>
+<p align="center"> <a href="https://github.com/Arjun-2k19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjunprajapati&layout=compact&theme=algolia" alt="arjun prajapati" /></a> </p>
 
 -----
 
