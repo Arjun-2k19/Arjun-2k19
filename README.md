@@ -150,13 +150,13 @@ Here are some ideas to get you started:
  
 <p align="center">
   &emsp;
-    <a href="https://codeforces.com/profile/Snape07"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
+    <a href="https://codeforces.com/profile/Arjunprajapati1110"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" /></a>	
   &emsp;
-      <a href="https://www.codechef.com/users/shashankb_19"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
+      <a href="https://www.codechef.com/users/arjun_2k19"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
   &emsp;
-    <a href="https://leetcode.com/Snape7/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="https://leetcode.com/arjun2k19/"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
-      <a href="https://auth.geeksforgeeks.org/user/shashanktaliwal/practice/"><img alt="Geeks For Geeks Practice" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+      <a href="https://auth.geeksforgeeks.org/user/arjun_2k19/practice"><img alt="Geeks For Geeks Practice" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
 <br/>
